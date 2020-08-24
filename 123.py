@@ -4,4 +4,4 @@ int = 'integer整數'
 float = 'float浮點數'
 bool = 'boolean布林值'
 str = 'string字串'
-print('整數', int, '浮點數', float, '布林值', bool, '字串', str)
+print('int', int, 'float', float, 'bool', bool, 'str', str)
